@@ -1,11 +1,14 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! I'm Leo.</h1>
-<p>Welcome to my github page! </br> I'm a Fullstack developer from  <b>Brazil</b>.</p>
+<p>Welcome to my github page! <br/>I'm a Fullstack developer from <b>Brazil</b> <img align="center" src="https://cdn-icons-png.flaticon.com/512/4087/4087479.png" width="20"/>!</p>
 
-- 🔭 I’m currently working in web applications using Angular and C#.
+- 🔭 I’m currently working in web applications using Angular and C#
 - 🌱 I’m currently learning mobile development using React Native
 - 👯 I’m looking to collaborate on any project that gives me the opportunity to learn something new
 - <img align="center" src="https://cdn-icons-png.flaticon.com/512/6096/6096383.png" width="20"/> Pronouns: They/Them/Theirs
 
+###
+
+<h2>Some of the technologies that i have been working with lately:</h2>
 <div style="display: inline_block"><br>
   <img alt="leo-csharp" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img alt="leo-java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
@@ -19,7 +22,8 @@
 
 ###
 
+<h2>Contact me</h2>
 <div>
-  <a href="https://instagram.com/lpvlnc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lpvalenca" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/lpvlnc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
