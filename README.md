@@ -4,7 +4,6 @@
 - 🔭 I’m currently working in web applications using Angular and C#
 - 🌱 I’m currently learning mobile development using React Native
 - 👯 I’m looking to collaborate on any project that gives me the opportunity to learn something new
-- <img align="center" src="https://cdn-icons-png.flaticon.com/512/6096/6096383.png" width="20"/> Pronouns: They/Them/Theirs
 
 ###
 
